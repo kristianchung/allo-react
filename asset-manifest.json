@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/allo-react/static/css/main.73f11367.chunk.css",
+    "main.js": "/allo-react/static/js/main.aa669b7f.chunk.js",
+    "main.js.map": "/allo-react/static/js/main.aa669b7f.chunk.js.map",
+    "runtime-main.js": "/allo-react/static/js/runtime-main.f334d0ee.js",
+    "runtime-main.js.map": "/allo-react/static/js/runtime-main.f334d0ee.js.map",
+    "static/js/2.e4b87a62.chunk.js": "/allo-react/static/js/2.e4b87a62.chunk.js",
+    "static/js/2.e4b87a62.chunk.js.map": "/allo-react/static/js/2.e4b87a62.chunk.js.map",
+    "static/js/3.eae39fd2.chunk.js": "/allo-react/static/js/3.eae39fd2.chunk.js",
+    "static/js/3.eae39fd2.chunk.js.map": "/allo-react/static/js/3.eae39fd2.chunk.js.map",
+    "index.html": "/allo-react/index.html",
+    "static/css/main.73f11367.chunk.css.map": "/allo-react/static/css/main.73f11367.chunk.css.map",
+    "static/js/2.e4b87a62.chunk.js.LICENSE.txt": "/allo-react/static/js/2.e4b87a62.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/allo-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f334d0ee.js",
+    "static/js/2.e4b87a62.chunk.js",
+    "static/css/main.73f11367.chunk.css",
+    "static/js/main.aa669b7f.chunk.js"
+  ]
+}
